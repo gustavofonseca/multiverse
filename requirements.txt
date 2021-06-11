@@ -6,7 +6,7 @@ cornice-swagger==1.0.0
 hupper==1.10.2
 idna==2.9
 iso8601==0.1.12
-lxml==4.5.0
+lxml==4.6.3
 numpy==1.18.4
 PasteDeploy==2.1.0
 plaster==1.0
